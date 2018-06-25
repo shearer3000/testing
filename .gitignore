@@ -40,6 +40,7 @@ Thumbs.db
 [Tt]est[Rr]esults
 *.suo
 *.user
+*.csproj.user
 *.[Cc]ache
 *[Rr]esharper*
 packages
